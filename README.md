@@ -20,3 +20,5 @@ quasar build
 
 ### Customize the configuration
 See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
+
+## To check the app click [here](https://pedantic-yonath-25eaa1.netlify.com/)
