@@ -16,9 +16,9 @@
       <em>bootstrap-vue</em> and
       <em>vuex</em>,
       <em>axios</em> etc.
-      The program does not make use of a database so every time one of the show pages is refreshed
-      the data is lost and a warning message is displayes which kindly asks you to return to the
-      home page also providing a small explanation to why this happens.
+      The program does not make use of a database or local storage so every time one of the show pages is refreshed
+      the data is lost and a page not found message is displayed which kindly asks you to return to the
+      home page.
     </p>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia, eligendi. Beatae quod adipisci quaerat vel illum officia doloremque obcaecati. Odit sequi hic et. In saepe, error veritatis id maiores ducimus, illum debitis dolorem labore, assumenda animi rem porro ea consectetur.</p>
   </div>
